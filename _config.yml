@@ -4,3 +4,4 @@ description: Page with information on ENAA XXXI.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+classes: wide
