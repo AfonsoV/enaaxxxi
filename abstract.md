@@ -29,8 +29,7 @@ Please fill the form below to submit an abstract to the conference.
   <label>
     Abstract:
 <br>
-    <textarea name="abstract" rows="15" columns="400" placeholder="Your Abstract Here">
-    </textarea>
+    <textarea name="abstract" rows="15" columns="400" placeholder="Your Abstract Here"></textarea>
   </label>
 <br>
 
