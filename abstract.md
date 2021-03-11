@@ -23,7 +23,7 @@ Please fill the form below to submit an abstract to the conference.
  <label>
     Title:
 <br>
-    <input type="text" name="title" size="80" placeholder="Your Title">
+    <input type="text" name="title" size="75" placeholder="Your Title">
   </label>
 <br>
   <label>
