@@ -10,12 +10,12 @@ Online meeting (Zoom) with virtual reality poster sessions and social events. De
 Conference: September 8-10
 
 ## Scientific topics
-A. Solar & Stellar Physics
-B. Galactic & Extragalactic Astronomy
-C. Astronomical Instrumentation
-D. Planetary Science
-E. Cosmology & Gravitation
-F. Science Communication & Education, and History of Astronomy
+- Solar & Stellar Physics
+- Galactic & Extragalactic Astronomy
+- Astronomical Instrumentation
+- Planetary Science
+- Cosmology & Gravitation
+- Science Communication & Education, and History of Astronomy
 
 
 ## Organizing committee 

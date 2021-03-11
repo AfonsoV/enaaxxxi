@@ -10,7 +10,7 @@ Please fill the form below to submit an abstract to the conference.
   <label>
     Your email:
 <br>
-    <input type="email" name="_replyto" placeholder="example@institute">
+    <input type="email" name="_replyto" size="30" placeholder="example@institute">
   </label>
 <br>
    <label>Contribution:</label>
@@ -23,15 +23,15 @@ Please fill the form below to submit an abstract to the conference.
  <label>
     Title:
 <br>
-    <input type="text" name="title" placeholder="Your Title">
+    <input type="text" name="title" size="80" placeholder="Your Title">
   </label>
 <br>
   <label>
     Abstract:
 <br>
-    <textarea name="abstract" rows="15" columns="400" placeholder="Your Abstract Here"></textarea>
+    <textarea name="abstract" rows="15" cols="75" placeholder="Your Abstract Here"></textarea>
   </label>
 <br>
 
-  <button type="submit">Send</button>
+  <button type="submit">Submit</button>
 </form>
