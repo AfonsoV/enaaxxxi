@@ -15,10 +15,13 @@ Please fill the form below to submit an abstract to the conference.
 <br>
    <label>Contribution:</label>
 <br>
-   <select name="contribution" required>
-      <option value="talk">Talk</option>
-      <option value="poster">Poster</option>
-   </select>
+  <label>
+    Contribution
+      <input type="radio" id="talk" name="contrib" value="talk", required>
+      <label for="talk">Talk</label><br>
+      <input type="radio" id="poster" name="contrib" value="poster">
+      <label for="poster">Poster</label><br>
+  </label>
 <br>
  <label>
     Title:
