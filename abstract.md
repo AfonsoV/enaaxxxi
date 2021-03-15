@@ -8,14 +8,15 @@ Please fill the form below to submit an abstract to the conference.
   method="POST"
 >
   <label>
-    Your email:
+    Your email (same as registration e-mail):
 <br>
     <input type="email" name="_replyto" size="30" placeholder="example@institute">
   </label>
 <br>
+<br>
    <label>Contribution:</label>
 <br>
-      <input type="radio" id="talk" name="contrib" value="talk" required="required">
+      <input type="radio" id="talk" name="contrib" value="talk" required="required" checked="checked">
       <label for="talk">Talk</label><br>
       <input type="radio" id="poster" name="contrib" value="poster">
       <label for="poster">Poster</label><br>
