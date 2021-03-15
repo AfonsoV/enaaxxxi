@@ -7,6 +7,19 @@ The registration fee for this conference is 10€.
 
 To register for the virtual ENAA XXXI conference please use the form below. 
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $("input[type='radio']").change(function() {
+            if ($(this).val() == "other") {
+                $("#otherAnswer").show();
+            } else {
+                $("#otherAnswer").hide();
+            }
+        });
+    });
+</script>
+
 <form
   action="https://formspree.io/f/meqpyvlz"
   method="POST"
@@ -40,6 +53,7 @@ To register for the virtual ENAA XXXI conference please use the form below.
       <label for="spa">SPA associate</label><br>
       <input type="radio" id="other" name="waiver" value="other">
       <label for="other">Other</label><br>
+<input style="display:none;" type="text" size="75" name="otherAnswer" id="otherAnswer" />
 <br>
   <button type="submit">Register</button>
 </form>
